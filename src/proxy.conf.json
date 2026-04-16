@@ -1,0 +1,10 @@
+{
+  "/api/tollguru": {
+    "target": "https://apis.tollguru.com",
+    "secure": true,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api/tollguru": ""
+    }
+  }
+}
