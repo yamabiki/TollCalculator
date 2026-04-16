@@ -1,0 +1,2 @@
+/api/tollguru/*  https://apis.tollguru.com/:splat  200
+/*               /index.html                       200
